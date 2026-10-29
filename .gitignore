@@ -1,0 +1,19 @@
+# Environnement Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Données EEG
+*.edf
+*.edf.seizures
+*summary.txt
+
+# Données générées
+*.npy
+*.npz
+*.csv
+
+# Modèles entraînés
+*.pt
+*.pth
+*.h5
